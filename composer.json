@@ -1,0 +1,21 @@
+{
+    "name": "profburial/wkhtmltopdf-binaries-trusty",
+    "description": "All the wkhtmltopdf binaries for Ubuntu 14.04 (trusty).",
+    "keywords": ["pdf", "wkhtmltopdf", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://github.com/profburial/wkhtmltopdf-binaries-trusty",
+    "authors": [
+        {
+            "name": "Terry Harmon",
+            "email": "terry@polymorphdev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltoimage-linux-trusty-amd64",
+        "bin/wkhtmltoimage-linux-trusty-i386",
+        "bin/wkhtmltopdf-linux-trusty-amd64",
+        "bin/wkhtmltopdf-linux-trusty-i386"
+    ],
+    "require": {}
+}
