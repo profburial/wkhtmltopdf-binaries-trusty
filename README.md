@@ -1,4 +1,4 @@
-# wkhtmltopdf for Ubuntu 14.04 (trusty)
+# wkhtmltopdf for Ubuntu 14.04 (trusty) 0.12.1 qtwebkit
 
 [All the binaries for Ubuntu 14.04 (trusty) from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
 
@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profburial/wkhtmltopdf-binaries-trusty": "1.0"
+            "profburial/wkhtmltopdf-binaries-trusty": "0.12.1"
         }
     }
     ```
